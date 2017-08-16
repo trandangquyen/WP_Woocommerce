@@ -1,0 +1,6 @@
+08-15-2017 @ 01:55:13 - Upgrade complete. Scheduling log cleanup for 2017-10-10 01:55:13 GMT/UTC
+08-15-2017 @ 02:21:48 - Upgrade complete. Scheduling log cleanup for 2017-10-10 02:21:48 GMT/UTC
+08-15-2017 @ 03:39:14 - v2.1: Deleted cached subscription ranges.
+08-15-2017 @ 03:39:14 - v2.1: Set _schedule_cancelled date to post_modified_gmt column value for 0 subscriptions with wc-pending-cancel status.
+08-15-2017 @ 03:39:14 - v2.1: Set _schedule_cancelled date to post_modified_gmt column value for 0 subscriptions with wc-cancelled status.
+08-15-2017 @ 03:39:14 - 2.2.11 upgrade complete from Subscriptions v2.0.16 while WooCommerce WC_VERSION 3.1.1 and database version 3.1.1 was active.
