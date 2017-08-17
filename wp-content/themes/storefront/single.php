@@ -15,7 +15,7 @@ get_header(); ?>
 			do_action( 'storefront_single_post_before' );
 
 			get_template_part( 'content', 'single' );
-
+            do_action( 'brian_action_hook' );
 			do_action( 'storefront_single_post_after' );
 
 		endwhile; // End of the loop. ?>
